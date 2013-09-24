@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+*.pyc
+=======
 # file types to ignore
 *.pyc
 *.pyd
@@ -11,3 +14,4 @@
 build/
 dist/
 docs/build/
+>>>>>>> 2921e7d461989de83bfcccdb21e11d451c4b2040
